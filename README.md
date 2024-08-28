@@ -88,8 +88,19 @@ function isCollide(snake) {
         if (snake[i].x === snake[0].x && snake[i].y === snake[0].y) {
             return true;
         }
+
     }
     if (snake[0].x >= 18 || snake[0].x <= 0 || snake[0].y >= 18 || snake[0].y <= 0) {
         return true;
     }
 }
+```
+
+##  Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Please make sure to test your changes before submitting.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
