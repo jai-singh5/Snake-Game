@@ -10,7 +10,6 @@ This is a simple Snake game implemented using HTML, CSS, and JavaScript. The pla
 - [Game Mechanics](#game-mechanics)
 - [Code Overview](#code-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
